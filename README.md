@@ -12,6 +12,5 @@ To move paddle , access using your mouse.
 
 ###You can access the Game online at : https://pridhigarg369.github.io/PingPong/
 
-##Preview
   
 
