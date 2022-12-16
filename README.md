@@ -8,6 +8,10 @@ It is singleplayer ping pong game build using JavaScript and HTML canvas. where 
 
 ## Controls
 To move paddle , access using your mouse.
+
+###You can access the Game online at : https://pridhigarg369.github.io/PingPong/
+
+##Preview
   
 ![Screenshot (20)](https://user-images.githubusercontent.com/77046773/208177544-edb734d9-9cd8-466b-994d-159e5a4d18c4.png)
 
