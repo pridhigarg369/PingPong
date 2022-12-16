@@ -1,6 +1,6 @@
 body{
     background-color: rgb(167, 180, 236);
-    width:100vw;
+    width:100 vw;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -18,8 +18,9 @@ h1{
     text-shadow: 0 0 35px #85FF64,
     0 0 40px #97f3df,
     0 0 55px #68f0fa;
+    margin-top: -0.1vh;
+    margin-left: -25vw;
     color: rgb(255, 47, 161);
-    margin-left: -29vw;
     display: block;}
 #text{
     color:#85FF64;}
